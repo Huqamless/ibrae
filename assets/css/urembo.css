@@ -1,0 +1,36 @@
+table{
+    width: 93%;
+    border-collapse: collapse;
+    margin: 20px;
+
+}
+td,th{
+    border: 1px solid indigo;
+    padding: 15px;
+
+}
+td,th{
+  font-size: 20px;
+    font-family:"DejaVu Sans";
+    text-align: center;
+}
+h2{
+   text-align: center;
+    font-family:"DejaVu Sans Mono";
+    font-size: 20px;
+    color: #4cb0b0;
+}
+tr{
+    font-family: "DejaVu Sans";
+    font-size: 26px;
+    color: #4cb0b0;
+}
+th {
+    color: indigo;
+}
+tr:nth-child(even) {
+background-color: #77479f;
+}
+
+
+

@@ -1,0 +1,15 @@
+label{
+    color: #77479f;
+    font-family:Dhurjati;
+    font-size: 20px;
+}
+input{
+    color: darkslategray;
+    margin: 5px;
+    border: solid midnightblue ;
+    font-family: Gubbi;
+
+}
+body,h2{
+    background-color: midnightblue block;
+}
